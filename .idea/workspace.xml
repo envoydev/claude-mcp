@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68e4064f-68d1-442e-88a2-1eaa43aa6cd7" name="Changes" comment="Interactive CLI with autocomplete and document management&#10;&#10;- Implement live @-dropdown autocomplete for documents&#10;- Add format prompt for AI markdown formatting&#10;- Fix MCP client params and type safety issues&#10;- Use local tsx path for debugger compatibility&#10;- Add comprehensive README and standardize code style">
-      <change afterPath="$PROJECT_DIR$/.claude/settings.local.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/claude-mcp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Debug_mcp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/chat.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/claude.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/cli-chat.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/cli.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/helpers.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/tools.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mcp-client.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mcp-server.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/types/claude.types.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/types/cli-chat.types.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="68e4064f-68d1-442e-88a2-1eaa43aa6cd7" name="Changes" comment="Interactive CLI with autocomplete and document management&#10;&#10;- Implement live @-dropdown autocomplete for documents&#10;- Add format prompt for AI markdown formatting&#10;- Fix MCP client params and type safety issues&#10;- Use local tsx path for debugger compatibility&#10;- Add comprehensive README and standardize code style" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +94,7 @@
       <workItem from="1777958499426" duration="6591000" />
       <workItem from="1777965121213" duration="1000000" />
       <workItem from="1777966138301" duration="3626000" />
-      <workItem from="1778002335431" duration="1008000" />
+      <workItem from="1778002335431" duration="1065000" />
     </task>
     <task id="LOCAL-00001" summary="Interactive CLI with autocomplete and document management&#10;&#10;- Implement live @-dropdown autocomplete for documents&#10;- Add format prompt for AI markdown formatting&#10;- Fix MCP client params and type safety issues&#10;- Use local tsx path for debugger compatibility&#10;- Add comprehensive README and standardize code style">
       <option name="closed" value="true" />
@@ -128,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778003294175</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Interactive CLI with autocomplete and document management&#10;&#10;- Implement live @-dropdown autocomplete for documents&#10;- Add format prompt for AI markdown formatting&#10;- Fix MCP client params and type safety issues&#10;- Use local tsx path for debugger compatibility&#10;- Add comprehensive README and standardize code style">
+      <option name="closed" value="true" />
+      <created>1778003353405</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778003353405</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

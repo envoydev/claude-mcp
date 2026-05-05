@@ -119,12 +119,6 @@ npm run debug
 
 Then connect your IDE or Chrome DevTools to `localhost:9229`.
 
-#### Build for Production
-
-```bash
-npm run build       # Build to dist/
-npm run start:build # Run the built version
-```
 
 ## Architecture
 
@@ -183,8 +177,6 @@ const docs: Record<string, string> = {
 | `npm start` | Run the CLI app |
 | `npm run start:mcp-client` | Test the MCP client directly |
 | `npm run debug` | Run with Node debugger attached |
-| `npm run build` | Build to ESM for production |
-| `npm run start:build` | Run the built version |
 | `npm run inspect` | Open MCP inspector UI |
 | `npm run format` | Format code with Prettier |
 
