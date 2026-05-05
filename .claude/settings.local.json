@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -n \"if.*return\\\\|if.*[a-zA-Z]\\(\\);$\" /Users/mac/Programming/Learning/claude-mcp/src/core/cli.ts)",
+      "Bash(grep -n ':[^/]*\"[^`]*\"' /Users/mac/Programming/Learning/claude-mcp/src/mcp-server.ts /Users/mac/Programming/Learning/claude-mcp/src/core/cli-chat.ts)"
+    ]
+  }
+}

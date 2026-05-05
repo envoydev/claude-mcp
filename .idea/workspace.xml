@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68e4064f-68d1-442e-88a2-1eaa43aa6cd7" name="Changes" comment="Interactive CLI with autocomplete and document management&#10;&#10;- Implement live @-dropdown autocomplete for documents&#10;- Add format prompt for AI markdown formatting&#10;- Fix MCP client params and type safety issues&#10;- Use local tsx path for debugger compatibility&#10;- Add comprehensive README and standardize code style">
+      <change afterPath="$PROJECT_DIR$/.claude/settings.local.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/claude-mcp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Debug_mcp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/chat.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/claude.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/cli-chat.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/cli.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/helpers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/tools.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mcp-client.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mcp-server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/claude.types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/cli-chat.types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="25" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "envoydev"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:envoydev/claude-mcp.git",
+    "accountId": "a11db3ae-5fa1-4073-848a-5555098276a4"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3DGnQ9pL6vLa8RryKzSFir35D2N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.Debug mcp.executor": "Debug",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/mac/Programming/Learning/claude-mcp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/Users/mac/Programming/Learning/claude-mcp/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.23567.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68e4064f-68d1-442e-88a2-1eaa43aa6cd7" name="Changes" comment="" />
+      <created>1777917254669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777917254669</updated>
+      <workItem from="1777917255708" duration="4965000" />
+      <workItem from="1777958499426" duration="6591000" />
+      <workItem from="1777965121213" duration="1000000" />
+      <workItem from="1777966138301" duration="3626000" />
+      <workItem from="1778002335431" duration="1008000" />
+    </task>
+    <task id="LOCAL-00001" summary="Interactive CLI with autocomplete and document management&#10;&#10;- Implement live @-dropdown autocomplete for documents&#10;- Add format prompt for AI markdown formatting&#10;- Fix MCP client params and type safety issues&#10;- Use local tsx path for debugger compatibility&#10;- Add comprehensive README and standardize code style">
+      <option name="closed" value="true" />
+      <created>1778003294175</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778003294175</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Interactive CLI with autocomplete and document management&#10;&#10;- Implement live @-dropdown autocomplete for documents&#10;- Add format prompt for AI markdown formatting&#10;- Fix MCP client params and type safety issues&#10;- Use local tsx path for debugger compatibility&#10;- Add comprehensive README and standardize code style" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interactive CLI with autocomplete and document management&#10;&#10;- Implement live @-dropdown autocomplete for documents&#10;- Add format prompt for AI markdown formatting&#10;- Fix MCP client params and type safety issues&#10;- Use local tsx path for debugger compatibility&#10;- Add comprehensive README and standardize code style" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main.ts</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
